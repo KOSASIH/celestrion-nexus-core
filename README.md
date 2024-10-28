@@ -47,7 +47,7 @@ To set up the Celestrion Nexus project locally, follow these steps:
 - Explore the examples/ directory for sample scripts demonstrating various functionalities of the Celestrion Nexus framework.
 
 ## Contributing
-Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to the project.
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md)   file for guidelines on how to contribute to the project.
 
 ## License
-This project is licensed under the Apache 2.0 License. See the LICENSE file for more details.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for more details.
