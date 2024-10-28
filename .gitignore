@@ -1,2 +1,22 @@
-# Google App Engine generated folder
-appengine-generated/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+venv/
+env/
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Environment variables
+.env
